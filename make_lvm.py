@@ -11,7 +11,7 @@ ROOT_MOUNT_POINT = "/gfs"
 # volume_name:volume_size
 VOLUMES = {
 	"test1":"4G",
-	"test2":"3G",
+#	"test2":"3G",
 			}
 
 def print_message(message):
